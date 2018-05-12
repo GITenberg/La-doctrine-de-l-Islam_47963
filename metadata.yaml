@@ -1,4 +1,8 @@
 _repo: La-doctrine-de-l-Islam_47963
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47963-h/images/cover.jpg
 creator:
   author:
     agent_name: Carra de Vaux, Bernard, baron
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '33495'
     url: http://www.gutenberg.org/2009/agents/33495
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47963#La-doctrine-de-l-Islam
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
